@@ -1,0 +1,6 @@
+{
+  "name": "yahiko-ai",
+  "compatibility_date": "2025-09-15",
+  "main": "src/index.ts",
+  "node_compat": true
+}
