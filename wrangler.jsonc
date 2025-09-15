@@ -1,0 +1,6 @@
+{
+  "name": "yahiko-ai",
+  "main": "worker.js",
+  "compatibility_date": "2025-09-15",
+  "node_compat": true
+}
